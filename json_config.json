@@ -1,0 +1,4 @@
+{"ssd_folder":"/home/predator/Documents/OCR/OCR/ssd_keras//",
+ "data_folder":"/home/predator/Documents/OCR/OCR/extra/",
+"ssd_base_weights":"/home/predator/Documents/OCR/OCR/models/VGG_coco_SSD_300x300_iter_400000.h5",
+"ssd_base_weights_1":"/home/predator/Documents/OCR/OCR/trained/ssd_20210329T1033_svhn_classes_10-07_loss-3.8795_val_loss-3.8269.h5"}
